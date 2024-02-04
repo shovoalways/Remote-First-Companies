@@ -40,16 +40,37 @@ Zyte: Data extraction service
 
 
 ## ✒ Here are some of my favorite companies I want to work on, Don't forget to hit the star button if you like the list. ADD if you want too
-- Aha!: Product development software[https://www.aha.io/company/careers]
-- Automattic: Publishing and commerce company[https://automattic.com/work-with-us/]
-- Axelerant: Digital changemakers[https://www.axelerant.com/careers]
-- Buffer: Social media scheduler[https://buffer.com/journey]
-- Cockroach Labs: Open source SQL database[https://www.cockroachlabs.com/careers/open-positions/]
-- Datadog: Monitoring and analytics tool[https://careers.datadoghq.com/]
-- Deel: International compliance, payroll, and HR[https://jobs.ashbyhq.com/Deel/]
-- Doist: Productivity and collaboration apps[https://doist.com/careers]
-- Figma: Design tool[https://www.figma.com/careers/]
-- FlexJobs: Job site[https://www.flexjobs.com/careers-at-flexjobs]
+- [Aha!: Product development software](https://www.aha.io/company/careers)
+- [Automattic: Publishing and commerce company](https://automattic.com/work-with-us/)
+- [Axelerant: Digital changemakers](https://www.axelerant.com/careers)
+- [Buffer: Social media scheduler](https://buffer.com/journey)
+- [Cockroach Labs: Open source SQL database](https://www.cockroachlabs.com/careers/open-positions/)
+- [Datadog: Monitoring and analytics tool](https://careers.datadoghq.com/)
+- [Deel: International compliance, payroll, and HR](https://jobs.ashbyhq.com/Deel/)
+- [Doist: Productivity and collaboration apps](https://doist.com/careers)
+- [Figma: Design tool](https://www.figma.com/careers/)
+- [FlexJobs: Job site](https://www.flexjobs.com/careers-at-flexjobs)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ## 🧑‍💻 Contributors
 - [@Ali Hossain](https://github.com/shovoalways/)
