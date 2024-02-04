@@ -36,7 +36,7 @@
 - [Toptal: Freelance network](https://www.toptal.com/careers)
 - [Veeam: Data backup](https://careers.veeam.com/vacancies?query=&department=&location=all&state=all&city=all)
 - [Zapier: Work automation](https://zapier.com/)
-- 
+
 
 ## 🧑‍💻 Contributors
 - [@Ali Hossain](https://github.com/shovoalways/)
