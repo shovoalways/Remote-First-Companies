@@ -46,4 +46,5 @@
 - [@Github](https://github.com/shovoalways/) 
 - [@Facebook](https://facebook.com/shovoalways/) 
 - [@Twitter](https://twitter.com/shovoalways/) 
-- [@Instagram](https://instagram.com/shovoalways/) 
+- [@Instagram](https://instagram.com/shovoalways/)
+- **[OctaDezx](https://octadezx.com)** ([Remote Careers](https://octadezx.com/careers)) — Agentic AI customer care, live voice AI, and self-filling CRM platform (100% remote).
